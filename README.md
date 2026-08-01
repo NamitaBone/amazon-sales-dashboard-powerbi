@@ -108,6 +108,7 @@ Amazon-Sales-Dashboard-PowerBI/
 ## Author
 
 Namita Ajit Bone
+
 Data Analytics | Power BI | Python | SQL
 
 
