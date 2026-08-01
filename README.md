@@ -70,28 +70,6 @@ The dashboard helps identify:
 * **Data Analysis** – Business performance analysis
 * **Data Visualization** – Interactive reporting and insights
 
-##  Dashboard Preview
-
-### 1. Overview
-
-![Overview](images/screenshots/overview.png)
-
-### 2. Product Analysis
-
-![Product Analysis](images/screenshots/product-analysis.png)
-
-### 3. Customer Analysis
-
-![Customer Analysis](images/screenshots/customer-analysis.png)
-
-### 4. Revenue Analysis
-
-![Revenue Analysis](images/screenshots/revenue-analysis.png)
-
-### 5. Orders & Payment Analysis
-
-![Orders & Payment Analysis](images/screenshots/orders-analysis.png)
-
 ##  Repository Contents
 
 ```text
